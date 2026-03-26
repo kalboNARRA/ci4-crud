@@ -67,6 +67,8 @@
                 </div>
             </form>
 
+            <!-- Comment -->
+
             <!-- Student Table -->
             <?php if (empty($students)): ?>
                 <div class="text-center text-muted py-5">
