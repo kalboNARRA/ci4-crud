@@ -1,3 +1,5 @@
+<?php // Feature Branch: Search, Pagination and REST API - GORCHRISTIAN ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,8 +68,6 @@
                     <?php endif; ?>
                 </div>
             </form>
-
-            <!-- Comment -->
 
             <!-- Student Table -->
             <?php if (empty($students)): ?>
